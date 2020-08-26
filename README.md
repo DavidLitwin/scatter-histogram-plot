@@ -6,6 +6,6 @@ It draws heavily on [this](https://matplotlib.org/3.1.1/gallery/lines_bars_and_m
 ) example from the matplotlib library. 
 
 ### Dependencies
-matplotlib
-numpy
-pandas
+matplotlib  
+numpy  
+pandas  
